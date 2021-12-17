@@ -2,7 +2,6 @@
 #using functions to find exp value from 1-10
 #include<iostream>
 #include<math.h>
-#include<string>
 using namespace std;
 void number(int exponent)  //function definition
 {
